@@ -1,5 +1,0 @@
-package com.feignclient.Interface;
-
-public interface FeignInterface {
-
-}

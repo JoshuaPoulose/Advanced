@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=D\:\\Module3\\.git;
-GitRepositoriesView.GitDirectories.relative=D\:\\Module3\\.git;
+GitRepositoriesView.GitDirectories=D\:\\Module3\\.git;D\:\\Advance\\microservices\\.git;
+GitRepositoriesView.GitDirectories.relative=D\:\\Module3\\.git;.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

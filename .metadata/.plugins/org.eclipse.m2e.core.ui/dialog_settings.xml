@@ -6,6 +6,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Airlines\Microservices\Flight-services"/>
 			<item value="D:\Module3\mvc\FirstRestMySqljpa"/>
 		</list>
 		<list key="projectNameTemplate">
